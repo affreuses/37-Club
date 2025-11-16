@@ -5,11 +5,11 @@
 - The goal of the keyboard is to make a very small keyboard with only the necessary keys for playing video games, while enjoying the beauty and comfort of a 40% keyboard.
 
 - The keyboard is still a work in progress, so information is subject to change.
-- Here is the [Layout](https://www.keyboard-layout-editor.com/##@_name=three%20seven%20club&author=jjcz%3B&@_x:0.5&c=%23f9f9f9%3B&=%2F&%0A1&=%C3%A9%0A2&=%22%0A3&='%0A4&=(%0A5&=%C2%A7%0A6%3B&@=Esc&=A&=Z&=E&=R&=T&=Y&_w:1.75%3B&=Backspace%3B&@_w:1.25%3B&=Tab&=Q&=S&=D&=F&=G&=H&_w:1.5%3B&=Enter%3B&@_w:1.75%3B&=Shift&_c=%23ffffff%3B&=W&_c=%23f9f9f9%3B&=X&=C&=V&=B&=%E2%86%91&=Shift%3B&@_w:1.25%3B&=Ctrl&=Win&_a:7&w:1.75%3B&=&_w:1.75%3B&=&_a:4%3B&=%E2%86%90&=%E2%86%93&=%E2%86%92)
+- Here is the [Layout](https://tinyurl.com/22cwhu89)
 
 ![](https://raw.githubusercontent.com/affreuses/37-Club/refs/heads/main/images/render%204.png)
 
-[Layout](https://www.keyboard-layout-editor.com/##@_name=three%20seven%20club&author=jjcz%3B&@_x:0.5&c=%23f9f9f9%3B&=%2F&%0A1&=%C3%A9%0A2&=%22%0A3&='%0A4&=(%0A5&=%C2%A7%0A6%3B&@=Esc&=A&=Z&=E&=R&=T&=Y&_w:1.75%3B&=Backspace%3B&@_w:1.25%3B&=Tab&=Q&=S&=D&=F&=G&=H&_w:1.5%3B&=Enter%3B&@_w:1.75%3B&=Shift&_c=%23ffffff%3B&=W&_c=%23f9f9f9%3B&=X&=C&=V&=B&=%E2%86%91&=Shift%3B&@_w:1.25%3B&=Ctrl&=Win&_a:7&w:1.75%3B&=&_w:1.75%3B&=&_a:4%3B&=%E2%86%90&=%E2%86%93&=%E2%86%92)
+[Layout](https://tinyurl.com/22cwhu89)
 
 # To-Do List 📌
 
