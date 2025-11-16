@@ -11,6 +11,11 @@
 
 [Layout](https://tinyurl.com/22cwhu89)
 
+# Precaution ⚠️
+
+I can't guarantee that the 3D models will work
+I'm still in the keyboard design phase.
+
 # To-Do List 📌
 
 - Actually build the handwired keyboard ( I still haven't build it... )
